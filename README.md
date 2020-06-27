@@ -1,2 +1,2 @@
 # Purdue-hangman-game
-College project that uses the Zelle graphics library 
+College group coding project that uses the Zelle graphics library 
